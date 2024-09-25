@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Coding, Creativity, and Confidence in AI-Era Project website
-
 This is the main website for the **Coding, Creativity, and Confidence in AI-Era** project.
 
 This project is funded by the University of Glasgow's Glasgow Crucible Seed-Fund 2024. 
