@@ -11,3 +11,5 @@ Team members:
 * Sarah Falkowski (School of Geographical and Earth Sciences)
 * Tiffany Vlaar (School of Mathematics and Statistics)
 * Anna Sollazzo (School of Computing Science)
+* Lewis Dean (School of Mathematics and Statistics)
+* Sebastian Mutz (School of Geographical and Earth Sciences)
