@@ -10,3 +10,11 @@ github_username: yryo617
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-textile-converter
+
+include: ['_pages','_pages/events']
+
+header_pages:
+  - people.md
+  - _posts/
+  - _pages/events/index.md
