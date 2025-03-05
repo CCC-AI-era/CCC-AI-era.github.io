@@ -18,3 +18,6 @@ header_pages:
   - people.md
   - _posts/
   - _pages/events/index.md
+  
+minima:
+  date_format: "%Y-%m-%d"
