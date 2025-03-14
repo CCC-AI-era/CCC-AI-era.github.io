@@ -14,4 +14,4 @@ We seek to understand and improve coding education in a range of discplines in t
 ## Upcoming Events
 - [2025-03-21 Programming workshop for School of Mathematics & Statistics]({% link _pages/events/2025-03-maths.md %})
 - [2025-03-27 Programming workshop for School of Physics & Astronomy]({% link _pages/events/2025-03-physics.md %})
-- [TBD Programming workshop for School of Geographical and Earth Sciences]({% link _pages/events/2025-03-geo.md %})
+- [2025-04-15 Programming workshop for School of Geographical and Earth Sciences]({% link _pages/events/2025-03-geo.md %})
