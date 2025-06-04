@@ -5,8 +5,7 @@ permalink: /events/
 ---
 
 ## Upcoming Events
-- June 2025 — Conference/Workshop (TBD)
-
+- [**2025-06-19 1300–1700**: Conference — Coding, Creativity, and Conficence in the AI era]({% link _pages/events/2025-06-conference.md %})
 ## Past Events
 - [Have your say! — Coding Education and AI]({% link _posts/2024-09-16-have_your_say-event.md %})
 - [2025-03-21 Programming workshop for School of Mathematics & Statistics]({% link _pages/events/2025-03-maths.md %})
