@@ -13,7 +13,7 @@ Any level of teaching, coding, and AI experience welcome! We love diverse perspe
  
 **Sign up here: [https://uofg.qualtrics.com/jfe/form/SV_9mES58VB4oVs418](https://uofg.qualtrics.com/jfe/form/SV_9mES58VB4oVs418)**
  
-Discussions will be cantered around talks presented by interdisciplinary speakers and our own research project studying the impact of generative AI, specifically ChatGPT, on students’ coding creativity and confidence (see [abstract at the bottom](#abstract)).
+Discussions will be centred around talks presented by interdisciplinary speakers and our own research project studying the impact of generative AI, specifically ChatGPT, on students’ coding creativity and confidence (see [abstract at the bottom](#abstract)).
  
 # Draft Schedule
 
