@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Event — Conference: Coding, creativity, and confidnece in the AI-Era"
+title: "Event — Conference: Coding, creativity, and confidence in the AI-Era"
 permalink: /events/2025-06-conference
 exclude: true
 ---
