@@ -27,7 +27,7 @@ Time | Item
 14:45| **Sam Skipsey (School of Physics & Astronomy)**: Coding assistants and LLM explainers: trends in student behaviour in a 2nd year Physics coding course
 15:10| Break
 15:30| **Yunhyong Kim (School of Humanities)**: Reading, Writing, and Presenting Code in the Arts and Humanities
-15:55| **Craig Alexander and Jenn Gaskell (School of Mathematics & Statistics)**: TBD
+15:55| **Craig Alexander and Jenn Gaskell (School of Mathematics & Statistics)**: Education Strategies in the AI-era for Statistics and Data Analytics
 16:30| Group discussion
 17:00| End
  
